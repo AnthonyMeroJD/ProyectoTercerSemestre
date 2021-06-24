@@ -6,7 +6,7 @@ const menuUsuario=()=>[{label:"Inicio",url:"/",id:1},
 {label:"salir",url:"/salir",id: 3}];
 
 const nameOfSite="La hueca del libro";
-const apiBaseUrl="https://aqueous-anchorage-08800.herokuapp.com/";
+const apiBaseUrl="https://aqueous-anchorage-08800.herokuapp.com";
 const anuncios="/anuncios";
 const anuncio="/anuncio";
 const categoria="/categoria";
